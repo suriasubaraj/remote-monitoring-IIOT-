@@ -1,0 +1,7 @@
+{
+  "name": "Copy of StepSmart Industrial Dashboard",
+  "description": "A high-fidelity industrial dashboard for shoe manufacturing plants, featuring AI station monitoring, real-time process flow visualization, and intelligent quality control metrics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
